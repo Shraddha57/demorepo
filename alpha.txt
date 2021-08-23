@@ -1,6 +1,8 @@
 letter alpha
 
+it is not right way to update 
+keep it in SYNC
 
 
 
-:wq
+	wws
