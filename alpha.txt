@@ -1,4 +1,6 @@
 letter alpha
 
 it is not right way to update 
-keep it small.
+
+keep it in basic.
+
